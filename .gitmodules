@@ -1,0 +1,12 @@
+[submodule "ext/Parallel-Contraction-Hierarchy"]
+	path = ext/Parallel-Contraction-Hierarchy
+	url = https://github.com/ucrparlay/Parallel-Contraction-Hierarchy.git
+[submodule "ext/ParSGA"]
+	path = ext/ParSGA
+	url = https://github.com/ParBLiSS/ParSGA.git
+[submodule "ext/libbdsg"]
+	path = ext/libbdsg
+	url = https://github.com/vgteam/libbdsg.git
+[submodule "ext/PaSGAL"]
+	path = ext/PaSGAL
+	url = https://github.com/ParBLiSS/PaSGAL.git

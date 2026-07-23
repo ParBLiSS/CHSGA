@@ -1,0 +1,44 @@
+# build outputs
+/build/
+/out/
+/bin/
+/*_build/
+/**/build/
+protobuf_to_csr_build/
+char_graph_build_*/
+handle_build/
+handle_unidirectedbuild/
+ext/PaSGAL/build/
+ext/PaSGAL/build_match/
+
+# binaries (root only)
+/ConSGA_*
+/ParSGA_*
+/serialParSGA_*
+/csr_to_adj
+/csr_to_char_graphs*
+/build_pch
+/handlegraph_to_csr
+/handlegraph_to_unidirectedcsr
+/protobuf_to_csr
+/PaSGAL
+/PaSGAL_match
+
+# local data / checkpoints / logs
+*.fastq
+*.adj
+*.labels
+*.label_offsets
+*.out
+*.sbatch
+/data/
+/ckpt*/
+*.log
+*.bin
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+*~
+*.bak
